@@ -17,7 +17,7 @@ format:
 
 <div class="middle">
 
-Manual do Prontuário  
+Manual do Prontuário
 Eletrônico
 
 </div>
@@ -300,9 +300,9 @@ O Painel Estatístico apresenta uma visão clara, organizada e agregada dos aten
 
 <div class="bottom qr">
 
-![QR Code image](img/qrcode-apresentacao.png){.qr-code}
+![QR Code image](img/prontuario-dataprev_qr-code-login-e-atendimento.png){.qr-code}
 
-[Clique aqui](https://aplicacoes.mds.gov.br/snas/defeso/ProntuarioEletronicoLoginAtendimento.mp4) ou escaneie o QR Code para acessar o vídeo explicativo.
+[Clique aqui](https://redesuas.mds.gov.br/arquivos/ProntuarioEletronicoLoginAtendimento.mp4) ou escaneie o QR Code para acessar o vídeo explicativo.
 
 </div>
 
@@ -386,7 +386,7 @@ Atua no acompanhamento do Prontuário SUAS em nível municipal, assegurando a qu
 - Oferecer suporte e planejamento e capacitação aos profissionais das unidades.
 - Definir rotinas de uso do sistema.
 - Realizar atendimentos socioassistenciais em situações de emergência.
-- Realizar encaminhamentos quando a realidade municipal se fizer necessária. 
+- Realizar encaminhamentos quando a realidade municipal se fizer necessária.
 - Zelar pelo uso ético e sigiloso dos dados das famílias.
 
 Apenas profissionais vinculados ao órgão gestor e cadastrados no CadSUAS como "TÉCNICO(A) DE NÍVEL SUPERIOR" ou "COORDENADOR(A)/DIRIGENTE" possuem acesso a esse perfil.
@@ -476,7 +476,7 @@ Registra, planeja e acompanha ações socioassistenciais no Prontuário SUAS. Su
 
 Registra, planeja e acompanha ações socioassistenciais no Prontuário SUAS. Suas atribuições são:
 
-- Realizar acolhida, escuta, atendimentos especializados e acompanhamento (quando necessário). 
+- Realizar acolhida, escuta, atendimentos especializados e acompanhamento (quando necessário).
 - Estimular o fortalecimento de vínculos familiares e comunitários.
 - Orientar e encaminhar para serviços e benefícios da rede socioassistencial e de outras políticas públicas.
 - Atuar em equipe multiprofissional.
@@ -488,7 +488,7 @@ Registra, planeja e acompanha ações socioassistenciais no Prontuário SUAS. Su
 
 Registra as ações socioeducativas e o acompanhamento de usuários, garantindo organização e continuidade do atendimento. Suas atribuições são:
 
-- Produzir relatórios sob orientação da coordenação e/ou dos técnicos de nível superior. 
+- Produzir relatórios sob orientação da coordenação e/ou dos técnicos de nível superior.
 - Registrar oficinas, grupos e atividades socioeducativas.
 - Documentar atendimentos, orientações e encaminhamentos.
 - Contribuir com o plano de acompanhamento familiar, registrando metas e aquisições familiares (quando necessário).
@@ -504,7 +504,7 @@ Atenção: a utilização de funcionalidades específicas do prontuário SUAS de
 
 Registra, planeja e acompanha ações socioassistenciais no Prontuário SUAS. Suas atribuições são:
 
-- Realizar acolhida, escuta, atendimentos especializados e acompanhamento (quando necessário). 
+- Realizar acolhida, escuta, atendimentos especializados e acompanhamento (quando necessário).
 - Estimular o fortalecimento de vínculos familiares e comunitários.
 - Orientar e encaminhar para serviços e benefícios da rede socioassistencial e de outras políticas públicas.
 - Atuar em equipe multiprofissional.
@@ -525,7 +525,7 @@ Registra, planeja e acompanha ações socioassistenciais no Prontuário SUAS. Su
 
 Registra as ações socioeducativas e o acompanhamento de usuários, garantindo organização e continuidade do atendimento. Suas atribuições são:
 
-- Produzir relatórios sob orientação da coordenação e/ou dos técnicos de nível superior. 
+- Produzir relatórios sob orientação da coordenação e/ou dos técnicos de nível superior.
 - Registrar oficinas, grupos e atividades socioeducativas.
 - Documentar atendimentos, orientações e encaminhamentos.
 - Contribuir com o plano de acompanhamento familiar, registrando metas e aquisições familiares (quando necessário).
@@ -555,7 +555,7 @@ O Novo Prontuário Eletrônico SUAS possui diferentes perfis de acesso. A cada p
 ---
 
 <div class="page-2col">
- 
+
 {{< include _header-acesso.md >}}
 
 ![Login gov.br](img/login-no-sistema-1.png){.img-pagina}
@@ -644,7 +644,7 @@ Ao ler e aceitar o Termo de Uso, o usuário se compromete a:
 
 ![QR Code image](img/prontuario-dataprev_qr-code-login-e-atendimento.png){.qr-code}
 
-[Clique aqui](https://aplicacoes.mds.gov.br/snas/defeso/ProntuarioEletronicoLoginAtendimento.mp4) ou escaneie o QR Code para acessar o vídeo explicativo.
+[Clique aqui](https://redesuas.mds.gov.br/arquivos/ProntuarioEletronicoLoginAtendimento.mp4) ou escaneie o QR Code para acessar o vídeo explicativo.
 
 </div>
 
@@ -666,7 +666,7 @@ O refinamento da lista de resultados de unidades pode ser feito informando os pa
 
 Para selecionar a unidade responsável pelo atendimento da pessoa, acione o <kbd>4</kbd> **registro na lista**. O sistema apresenta a funcionalidade para busca do cadastro único da pessoa atendida. Se o perfil possuir apenas uma unidade de atendimento, esse passo não será necessário e o usuário acessará diretamente a funcionalidade de busca do cadastro único da pessoa atendida.
 
-### Consulta simples
+### Consulta simples {#consulta-simples-de-usuario}
 
 ![Consulta simples](img/realizar-atendimento-2.png){.w-100}
 
@@ -3468,10 +3468,10 @@ Na tela de Cadastro de pessoa, o sistema apresentará também a seguinte mensage
 - **Número da identidade** – campo que informa o número da identidade;
 - **Data de emissão da identidade** – campo que informa a data de emissão da identidade;
 - **Órgão emissor da identidade** – campo que informa o órgão emissor da identidade;
-- **UF da identidade** – campo que informa a UF o órgão emissor da identidade; 
-- **Número da CTPS** – campo que informa o número da CTPS; 
+- **UF da identidade** – campo que informa a UF o órgão emissor da identidade;
+- **Número da CTPS** – campo que informa o número da CTPS;
 - **Série da CTPS** – campo que informa o número de série da CTPS;
-- **Data de emissão da CTPS** – campo que informa a data de emissão da CTPS; 
+- **Data de emissão da CTPS** – campo que informa a data de emissão da CTPS;
 - **UF da CTPS** – campo que informa a UF da CTPS.
 
 </div>
@@ -3488,16 +3488,16 @@ Na tela de Cadastro de pessoa, o sistema apresentará também a seguinte mensage
 
 ### Incluir contato
 
-Para adicionar o contato, acione o botão <kbd>2</kbd> **Incluir contato**, então o sistema vai apresentar a janela para cadastro. 
+Para adicionar o contato, acione o botão <kbd>2</kbd> **Incluir contato**, então o sistema vai apresentar a janela para cadastro.
 
-A janela Incluir contato contém os seguintes dados: 
+A janela Incluir contato contém os seguintes dados:
 
 - **Tipo** – campo para informar o tipo de contato do cadastro. Os tipos de cadastros são:
   - Telefone;
   - Celular;
   - E-mail.
 - **Contato** – campo para informar o contato;
-- **Cancelar** – opção que, ao ser acionada, cancela a ação e fecha a janela. 
+- **Cancelar** – opção que, ao ser acionada, cancela a ação e fecha a janela.
 - **Incluir** – opção que, ao ser acionada, salva o registro e atualiza a lista.
 
 ![Incluir contato modal](img/extra-cadastro-modal-1.png){.w-60}
@@ -3530,7 +3530,7 @@ Após a inclusão, os contatos são exibidos em lista com as seguintes informaç
 - **Identidade de gênero** – campo para informar a identidade de gênero. Os gêneros são:
   - Feminina;
   - Masculina;
-  - Não binária. 
+  - Não binária.
 - **É pessoa trans?** – campo para informar se a pessoa é trans. As opções são:
   - Sim, transgênero;
   - Sim, travesti;
@@ -3551,7 +3551,7 @@ Após a inclusão, os contatos são exibidos em lista com as seguintes informaç
 
 ## Extra cadastro com CPF (Consulta simples)
 
-### Escolaridade 
+### Escolaridade
 
 - **Sabe ler ou escrever?** – campo para informar se a pessoa sabe ler ou escrever;
 - **Frequenta escola ou creche?** – campo para informar se a pessoa frequenta escola ou creche. As opções são:
@@ -3589,13 +3589,13 @@ Após a inclusão, os contatos são exibidos em lista com as seguintes informaç
 - **Município** – campo para informar o município da residência da pessoa;
 - **Referência para localização** - campo para informar a referência da localização da residência da pessoa;
 - **Quantas pessoas da sua família moram no seu endereço?** – campo para informar quantas pessoas da família residem no endereço;
-- **Quantas famílias moram no seu endereço?** – campo para informar quantas famílias moram no endereço. 
+- **Quantas famílias moram no seu endereço?** – campo para informar quantas famílias moram no endereço.
 
 ### Informações familiares
 
 - **A família é indígena?** – campo para informar se a família é indígena;
 - **Reside em terra indígena?** – campo para informar se a família reside em terra indígena;
-- **A família é quilombola?** – campo para informar se a família é quilombola; 
+- **A família é quilombola?** – campo para informar se a família é quilombola;
 
 </div>
 
@@ -3611,7 +3611,7 @@ Após a inclusão, os contatos são exibidos em lista com as seguintes informaç
 
 ### Informações familiares (continuação)
 
-- **GPTE** – Campo para informar se a família é pertencente de Grupos Populacionais Tradicionais e Específicos. As opções são: 
+- **GPTE** – Campo para informar se a família é pertencente de Grupos Populacionais Tradicionais e Específicos. As opções são:
 
 <div class="two-cols">
 
@@ -3626,12 +3626,12 @@ Após a inclusão, os contatos são exibidos em lista com as seguintes informaç
 - Família acampada;
 - Família de catadores de material reciclável;
 - Família de agricultores familiares;
-- Família de preso do sistema carcerário; 
+- Família de preso do sistema carcerário;
 - Família pertencente à comunidade de terreiro.
 
 </div>
 
-- **Cancelar** – cancela a ação e retornar a tela de consulta Buscar pessoa no CadÚnico; 
+- **Cancelar** – cancela a ação e retornar a tela de consulta Buscar pessoa no CadÚnico;
 - **Concluir** – acione a opção Incluir para salvar o extra cadastro.
 
 Após a inclusão, o sistema apresenta a funcionalidade, Gerenciar família, **descrita na página 147**.
@@ -3713,10 +3713,10 @@ Ao selecionar a opção <kbd>3</kbd> **Avançada**, novos campos serão apresent
 - **Número da identidade** - campo que informa o número da identidade;
 - **Data de emissão da identidade** - campo que informa a data de emissão da identidade;
 - **Órgão emissor da identidade** - campo que informa o órgão emissor da identidade;
-- **UF da identidade** - campo que informa a UF o órgão emissor da identidade; 
-- **Número da CTPS** - campo que informa o número da CTPS; 
+- **UF da identidade** - campo que informa a UF o órgão emissor da identidade;
+- **Número da CTPS** - campo que informa o número da CTPS;
 - **Série da CTPS** - campo que informa o número de série da CTPS;
-- **Data de emissão da CTPS** - campo que informa a data de emissão da CTPS; 
+- **Data de emissão da CTPS** - campo que informa a data de emissão da CTPS;
 - **UF da CTPS** - campo que informa a UF da CTPS;
 
 </div>
@@ -3733,15 +3733,15 @@ Ao selecionar a opção <kbd>3</kbd> **Avançada**, novos campos serão apresent
 
 ### Incluir contato
 
-Para adicionar o contato, acione o botão <kbd>6</kbd> **Incluir contato**, então o sistema vai apresentar a janela para cadastro. 
-A janela Incluir contato, contém os seguintes dados: 
+Para adicionar o contato, acione o botão <kbd>6</kbd> **Incluir contato**, então o sistema vai apresentar a janela para cadastro.
+A janela Incluir contato, contém os seguintes dados:
 
 - **Tipo** – campo para informar o tipo de contato do cadastro. Os tipos de cadastros são:
   - Telefone;
   - Celular;
   - E-mail.
 - **Contato** – campo para informar o contato;
-- **Cancelar** – opção que, ao ser acionada, cancela a ação e fecha a janela. 
+- **Cancelar** – opção que, ao ser acionada, cancela a ação e fecha a janela.
 - **Incluir** – opção que, ao ser acionada, salva o registro e atualiza a lista.
 
 ![Incluir contato modal](img/extra-cadastro-modal-1.png){.w-60}
@@ -3772,7 +3772,7 @@ Após a inclusão, os contatos são exibidos em lista com as seguintes informaç
 - **Identidade de gênero** – campo para informar a identidade de gênero. Os gêneros são:
   - Feminina;
   - Masculina;
-  - Não binária. 
+  - Não binária.
 - **É pessoa trans?** – campo para informar se a pessoa é trans. As opções são:
   - Sim, transgênero;
   - Sim, travesti;
@@ -3793,7 +3793,7 @@ Após a inclusão, os contatos são exibidos em lista com as seguintes informaç
 
 ## Extra cadastro sem CPF (Consulta avançada)
 
-### Escolaridade 
+### Escolaridade
 
 - **Sabe ler ou escrever?** – campo para informar se a pessoa sabe ler ou escrever;
 - **Frequenta escola ou creche?** – campo para informar se a pessoa frequenta escola ou creche. As opções são:
@@ -3831,14 +3831,14 @@ Após a inclusão, os contatos são exibidos em lista com as seguintes informaç
 - **Município** – campo para informar o município da residência da pessoa;
 - **Referência para localização** - campo para informar a referência da localização da residência da pessoa;
 - **Quantas pessoas da sua família moram no seu endereço?** – campo para informar quantas pessoas da família residem no endereço;
-- **Quantas famílias moram no seu endereço?** – campo para informar quantas famílias moram no endereço. 
+- **Quantas famílias moram no seu endereço?** – campo para informar quantas famílias moram no endereço.
 
 ### Informações familiares
 
 - **A família é indígena?** – campo para informar se a família é indígena;
 - **Reside em terra indígena?** – campo para informar se a família reside em terra indígena;
-- **A família é quilombola?** – campo para informar se a família é quilombola; 
-- **GPTE** - Campo para informar se a família é pertencente de Grupos Populacionais Tradicionais e Específicos. As opções são: 
+- **A família é quilombola?** – campo para informar se a família é quilombola;
+- **GPTE** - Campo para informar se a família é pertencente de Grupos Populacionais Tradicionais e Específicos. As opções são:
 
 <div class="two-cols">
 
@@ -3853,7 +3853,7 @@ Após a inclusão, os contatos são exibidos em lista com as seguintes informaç
 - Família acampada;
 - Família de catadores de material reciclável;
 - Família de agricultores familiares;
-- Família de preso do sistema carcerário; 
+- Família de preso do sistema carcerário;
 - Família pertencente à comunidade de terreiro.
 
 </div>
@@ -3872,8 +3872,8 @@ Após a inclusão, os contatos são exibidos em lista com as seguintes informaç
 
 ### Informações familiares (continuação)
 
-- **Cancelar** – cancela a ação e retornar a tela de consulta Buscar pessoa no CadÚnico; 
-- **Concluir** – acione a opção Incluir para salvar o extra cadastro. 
+- **Cancelar** – cancela a ação e retornar a tela de consulta Buscar pessoa no CadÚnico;
+- **Concluir** – acione a opção Incluir para salvar o extra cadastro.
 
 Após a inclusão, o sistema apresenta a funcionalidade Gerenciar família, descrita a seguir.
 
@@ -3887,7 +3887,7 @@ Após a inclusão, o sistema apresenta a funcionalidade Gerenciar família, desc
 
 ![Gerenciar Família](img/extra-cadastro-17.png){.img-pagina}
 
-## Gerenciar família 
+## Gerenciar família
 
 Para detalhar, atualizar e adicionar novos membros à família, acione o menu <kbd>4</kbd> **Gestão da Família**, consulte a unidade de atendimento, busque o membro da família  e o sistema apresentará a tela para Gerenciar Família.
 
@@ -3902,14 +3902,14 @@ Para detalhar, atualizar e adicionar novos membros à família, acione o menu <k
 - **Complemento** – campo que informa o complemento do logradouro;
 - **Complemento adicional** – campo que informar o complemento adicional do logradouro;
 - **Referência** – campo que informa a referência para o logradouro;
-- **Família indígena?** – campo que informa se a família é indígena; 
+- **Família indígena?** – campo que informa se a família é indígena;
 - **Reside em terra indígena?** – campo que informa se a família reside em terra indígena;
 - **Família quilombola?** – campo que informa se a família é quilombola;
 - **Povo indígena** – campo que informa qual o povo indígena;
 - **Terra indígena** – campo que informa qual a terra indígena;
 - **Nome da comunidade quilombola** – campo que informa o nome da comunidade quilombola;
 - **GPTE** – campo que informa o Grupos Populacionais Tradicionais e Específicos;
-- **Renda média familiar** – campo que informa a renda média da família. 
+- **Renda média familiar** – campo que informa a renda média da família.
 
 </div>
 
@@ -3921,7 +3921,7 @@ Para detalhar, atualizar e adicionar novos membros à família, acione o menu <k
 
 ![Gerenciar Família - Ações e Membros](img/extra-cadastro-17.png){.img-pagina}
 
-## Gerenciar família 
+## Gerenciar família
 
 Acione a opção <kbd>5</kbd> **Dados Familiares** para atualizar os dados da família.
 
@@ -3960,7 +3960,7 @@ Para alterar os dados da família, acione a opção <kbd>5</kbd> **Dados Familia
 ### Endereço
 
 - **CEP** – campo para informar o CEP do logradouro;'
-- **Localidade** – campo para informar a localidade do logradouro; 
+- **Localidade** – campo para informar a localidade do logradouro;
 - **Tipo** – campo para informar o tipo do logradouro;
 - **Título** – campo para informar o título do logradouro;
 - **Nome do logradouro** – campo para informar o nome do logradouro;
@@ -3994,8 +3994,8 @@ Para alterar os dados da família, acione a opção <kbd>5</kbd> **Dados Familia
 - **Reside em terra indígena?** – campo para informar se a família reside em terra indígena;
 - **Família quilombola?** – campo para informar se a família é quilombola;
 - **GPTE** – campo para informar se a família e pertencente de Grupos Populacionais Tradicionais e Específicos;
-- **Renda média familiar** – campo para informar a renda média da família. 
-- **Cancelar** – opção que, ao ser acionada, cancela a ação e fecha a janela. 
+- **Renda média familiar** – campo para informar a renda média da família.
+- **Cancelar** – opção que, ao ser acionada, cancela a ação e fecha a janela.
 - **Incluir** – opção que, ao ser acionada, salva o registro.
 
 </div>
@@ -4020,7 +4020,7 @@ Para alterar os dados da família, acione a opção <kbd>5</kbd> **Dados Familia
 
 ![QR Code image](img/prontuario-dataprev_qr-code-atendimento-coletivo.png){.qr-code}
 
-[Clique aqui](https://aplicacoes.mds.gov.br/snas/defeso/ProntuarioEletronicoAtendimentoColetivo.mp4) ou escaneie o QR Code para acessar o vídeo explicativo.
+[Clique aqui](https://redesuas.mds.gov.br/arquivos/ProntuarioEletronicoAtendimentoColetivo.mp4) ou escaneie o QR Code para acessar o vídeo explicativo.
 
 </div>
 
@@ -4334,7 +4334,7 @@ A janela <kbd>11</kbd> **Incluir atendimento coletivo**, representada na página
 
 ![QR Code image](img/prontuario-dataprev_qr-code-migrar-prontuario.png){.qr-code}
 
-[Clique aqui](https://blog.mds.gov.br/redesuas/wp-content/uploads/2025/12/Prontuario-Eletronico-Migrar-Prontuario.mp4) ou escaneie o QR Code para acessar o vídeo explicativo.
+[Clique aqui](https://redesuas.mds.gov.br/arquivos/ProntuarioEletronicoMigrarProntuario.mp4) ou escaneie o QR Code para acessar o vídeo explicativo.
 
 </div>
 
