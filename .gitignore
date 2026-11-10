@@ -1,7 +1,9 @@
 # ==============================================================================
 # Gemini & AI Assistant
 # ==============================================================================
-.gemini/
+.gemini/scratch/
+.gemini/logs/
+.gemini/transcripts/
 .agents/scratch/
 .agents/logs/
 .agents/transcripts/
