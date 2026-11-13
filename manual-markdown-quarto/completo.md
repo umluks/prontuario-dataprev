@@ -24,7 +24,7 @@ Eletrônico
 
 <div class="bottom">
 
-Janeiro de 2026
+Novembro de 2026
 
 <div class="logo">
 
